@@ -40,8 +40,7 @@ fi
 
 ``````
 
-## Automation Example:
-Enforce code formatting standards across teams to avoid style inconsistencies. Developers can’t commit code unless it's properly formatted, reducing PR review times.
+**Automation Example**:Enforce code formatting standards across teams to avoid style inconsistencies. Developers can’t commit code unless it's properly formatted, reducing PR review times.
 
 
 
