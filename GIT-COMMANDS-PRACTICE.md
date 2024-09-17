@@ -84,3 +84,22 @@
 | `git commit --allow-empty`            | Creates a commit with no changes (useful for triggering builds in CI).                        | `git commit --allow-empty -m "Trigger build"`       |
 | `git rev-parse --abbrev-ref HEAD`     | Prints the current branch name (used in CI scripts for branch-specific actions).              | `git rev-parse --abbrev-ref HEAD`                   |
 | `git rev-list --count HEAD`           | Counts the number of commits (useful for generating version numbers in CI/CD).
+
+---
+
+
+> Daily Practice Tips
+To practice daily, try combining various commands. For example:
+
+
+**Day 1**: Set up a repository (git init), make some changes, commit them (git add, git commit), and push to a remote (git push).
+
+**Day 2**: Clone a repo (git clone), switch branches (git branch, git checkout), and create a pull request workflow.
+
+**Day 3**: Practice resolving conflicts (git merge, git rebase) and resetting changes (git reset).
+
+**Day 4**: Work with stashes (git stash, git stash pop), and manage submodules (git submodule).
+
+**Day 5**: Dive into advanced branching, rebasing (git rebase), and interacting with remotes (git remote, git fetch).
+
+**Day 6**: Explore CI/CD commands and scripts for continuous integration tasks.
